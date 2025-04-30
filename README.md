@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Rama Chandra Yerramsetti**, currently pursuing my Master's degree at the **University of Connecticut (UCONN)**, Hartford, Connecticut. I am passionate about technology, cricket, and creative writing. Here's a bit more about me:
+I am **Rama Chandra Yerramsetti**, currently pursuing my Master's degree at the **University of Connecticut (UCONN)**,Connecticut. I am passionate about technology, cricket, and creative writing. Here's a bit more about me:
 
 ### About Me
 - 🔭 I’m currently working on enhancing my skills in AI/ML and cloud technologies.
