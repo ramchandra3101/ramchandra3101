@@ -32,9 +32,6 @@ I am **Rama Chandra Yerramsetti**, currently pursuing my Master's degree at the 
 #### Certifications
 - AWS Cloud Practitioner
 
-### GitHub Achievements
-- 🏆 Achievements: **Pull Shark**, **YOLO**
-- ⭐ Stars: 12
-- 📂 Repositories: 44
+
 
 Feel free to explore my [GitHub profile](https://github.com/ramchandra3101) to see my projects and contributions.
