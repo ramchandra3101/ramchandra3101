@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Rama Chandra Yerramsetti**, currently pursuing my Master's degree at the **University of Connecticut (UCONN)**,Connecticut. I am passionate about technology, cricket, and creative writing. Here's a bit more about me:
+I am **Rama Chandra Yerramsetti**, Working as Software Developer at **Infosys**.I graduted with Master's degree in Computer Sceince from **University of Connecticut (UCONN)**,Connecticut in May 2025. I am passionate about technology, cricket, and creative writing. Here's a bit more about me:
 
 ### About Me
 - 🔭 I’m currently working on enhancing my skills in AI/ML and cloud technologies.
