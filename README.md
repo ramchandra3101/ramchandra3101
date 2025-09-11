@@ -18,7 +18,7 @@ I am **Rama Chandra Yerramsetti**, currently pursuing my Master's degree at the 
 
 ### Skills
 #### Languages
-- Java, Python, C, SQL, JavaScript
+- Python, Java, C, SQL, JavaScript
 
 #### Web Frameworks
 - React, Spring Boot, Spring MVC, Spring Security, Node.js, Next.js, React Native, Django, CSS
