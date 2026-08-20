@@ -10,7 +10,7 @@ I am **Rama Chandra Yerramsetti**, Working as Software Developer at **Infosys**.
 - 💬 Ask me about Python, Java, and AI/ML frameworks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramachandra-yerramsetti) | [Twitter](https://twitter.com/Ramcha_writes)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a big **Virat Kohli** fan and an enthusiastic screenplay writer.
+
 
 ### Career Interests
 - 👀 I am currently on the lookout for **Backend**, **Full Stack**, or **AI Engineer** roles.
