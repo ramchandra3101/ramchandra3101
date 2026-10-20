@@ -86,9 +86,6 @@ outside_code: [Cricket, Creative Writing, Robotics Experiments]
   <img src="https://streak-stats.demolab.com?user=ramchandra3101&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-> [!NOTE]
-> GitHub stat cards use third-party services and may occasionally be unavailable. Language stats describe public repositories, not overall professional experience.
-
 ### 🌱 What's next?
 
 I'm exploring how to make **AI systems more reliable in production** — from document-processing pipelines and agent evaluation to backend infrastructure that can scale.
